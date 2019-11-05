@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 56a501cf9b069134cba31de2523c411f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\uD050\uBE0C"
+    100004: "\uD050\uBE0C.1"
+    100006: "\uD050\uBE0C.1_1"
+    100008: "\uD050\uBE0C.1_2"
+    100010: "\uD050\uBE0C.1_3"
+    100012: "\uD050\uBE0C.1_4"
+    100014: "\uD050\uBE0C.1_5"
+    100016: "\uD050\uBE0C.1_6"
+    100018: "\uD050\uBE0C.1_7"
+    100020: "\uD050\uBE0C.2"
+    100022: "\uD050\uBE0C.2_1"
+    100024: "\uD050\uBE0C.2_2"
+    100026: "\uD050\uBE0C.2_3"
+    100028: "\uD050\uBE0C.2_4"
+    100030: "\uD050\uBE0C.2_5"
+    100032: "\uD050\uBE0C.2_6"
+    100034: "\uD050\uBE0C.3"
+    100036: "\uD050\uBE0C.3_1"
+    100038: "\uD050\uBE0C.3_2"
+    100040: "\uD050\uBE0C.4"
+    100042: "\uD050\uBE0C.4_1"
+    100044: "\uD050\uBE0C_1"
+    400000: //RootNode
+    400002: "\uD050\uBE0C"
+    400004: "\uD050\uBE0C.1"
+    400006: "\uD050\uBE0C.1_1"
+    400008: "\uD050\uBE0C.1_2"
+    400010: "\uD050\uBE0C.1_3"
+    400012: "\uD050\uBE0C.1_4"
+    400014: "\uD050\uBE0C.1_5"
+    400016: "\uD050\uBE0C.1_6"
+    400018: "\uD050\uBE0C.1_7"
+    400020: "\uD050\uBE0C.2"
+    400022: "\uD050\uBE0C.2_1"
+    400024: "\uD050\uBE0C.2_2"
+    400026: "\uD050\uBE0C.2_3"
+    400028: "\uD050\uBE0C.2_4"
+    400030: "\uD050\uBE0C.2_5"
+    400032: "\uD050\uBE0C.2_6"
+    400034: "\uD050\uBE0C.3"
+    400036: "\uD050\uBE0C.3_1"
+    400038: "\uD050\uBE0C.3_2"
+    400040: "\uD050\uBE0C.4"
+    400042: "\uD050\uBE0C.4_1"
+    400044: "\uD050\uBE0C_1"
+    2100000: "\uC7AC\uC9C8.1"
+    2100002: "\uC7AC\uC9C8_1"
+    2100004: "\uC7AC\uC9C8"
+    2100006: "\uC7AC\uC9C8_2"
+    2300000: "\uD050\uBE0C"
+    2300002: "\uD050\uBE0C.1"
+    2300004: "\uD050\uBE0C.1_1"
+    2300006: "\uD050\uBE0C.1_2"
+    2300008: "\uD050\uBE0C.1_3"
+    2300010: "\uD050\uBE0C.1_4"
+    2300012: "\uD050\uBE0C.1_5"
+    2300014: "\uD050\uBE0C.1_6"
+    2300016: "\uD050\uBE0C.1_7"
+    2300018: "\uD050\uBE0C.2"
+    2300020: "\uD050\uBE0C.2_1"
+    2300022: "\uD050\uBE0C.2_2"
+    2300024: "\uD050\uBE0C.2_3"
+    2300026: "\uD050\uBE0C.2_4"
+    2300028: "\uD050\uBE0C.2_5"
+    2300030: "\uD050\uBE0C.2_6"
+    2300032: "\uD050\uBE0C.3"
+    2300034: "\uD050\uBE0C.3_1"
+    2300036: "\uD050\uBE0C.3_2"
+    2300038: "\uD050\uBE0C.4"
+    2300040: "\uD050\uBE0C.4_1"
+    2300042: "\uD050\uBE0C_1"
+    3300000: "\uD050\uBE0C"
+    3300002: "\uD050\uBE0C.1"
+    3300004: "\uD050\uBE0C.1_1"
+    3300006: "\uD050\uBE0C.1_2"
+    3300008: "\uD050\uBE0C.1_3"
+    3300010: "\uD050\uBE0C.1_4"
+    3300012: "\uD050\uBE0C.1_5"
+    3300014: "\uD050\uBE0C.1_6"
+    3300016: "\uD050\uBE0C.1_7"
+    3300018: "\uD050\uBE0C.2"
+    3300020: "\uD050\uBE0C.2_1"
+    3300022: "\uD050\uBE0C.2_2"
+    3300024: "\uD050\uBE0C.2_3"
+    3300026: "\uD050\uBE0C.2_4"
+    3300028: "\uD050\uBE0C.2_5"
+    3300030: "\uD050\uBE0C.2_6"
+    3300032: "\uD050\uBE0C.3"
+    3300034: "\uD050\uBE0C.3_1"
+    3300036: "\uD050\uBE0C.3_2"
+    3300038: "\uD050\uBE0C.4"
+    3300040: "\uD050\uBE0C.4_1"
+    3300042: "\uD050\uBE0C_1"
+    4300000: "\uD050\uBE0C"
+    4300002: "\uD050\uBE0C.1"
+    4300004: "\uD050\uBE0C.1_1"
+    4300006: "\uD050\uBE0C.1_2"
+    4300008: "\uD050\uBE0C.1_3"
+    4300010: "\uD050\uBE0C.1_4"
+    4300012: "\uD050\uBE0C.1_5"
+    4300014: "\uD050\uBE0C.1_6"
+    4300016: "\uD050\uBE0C.1_7"
+    4300018: "\uD050\uBE0C.2"
+    4300020: "\uD050\uBE0C.2_1"
+    4300022: "\uD050\uBE0C.2_2"
+    4300024: "\uD050\uBE0C.2_3"
+    4300026: "\uD050\uBE0C.2_4"
+    4300028: "\uD050\uBE0C.2_5"
+    4300030: "\uD050\uBE0C.2_6"
+    4300032: "\uD050\uBE0C.3"
+    4300034: "\uD050\uBE0C.3_1"
+    4300036: "\uD050\uBE0C.3_2"
+    4300038: "\uD050\uBE0C.4"
+    4300040: "\uD050\uBE0C.4_1"
+    4300042: "\uD050\uBE0C_1"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
